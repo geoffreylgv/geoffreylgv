@@ -154,7 +154,7 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geoffreylgv&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
   <br/>
-  <b>Note importante :</b> Les most languange ne sont qu'une métrique des langues de mon code public et ne reflète pas l'expérience ou le niveau de compétence.
+  <b>Note importante :</b> Les most languange ne sont qu'une métrique des langues de mon code public et ne reflète pas l'expérience ou le niveau de compétence. Ainsi, vous comprendrez que mes repository sont plus développement Front et WebDesign.
   </p>
 </details>
 
@@ -175,7 +175,7 @@
   <a href="mailto:geoffreylogovi2@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%Geoffrey%Logovi%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/geoffreylgv"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/geoffreylgv"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://geoffreylogovi.herokuapp.com/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://geoffreylogovi.herokuapp.com/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=web&logoColor=white"/></a>
   
 </p>
 
