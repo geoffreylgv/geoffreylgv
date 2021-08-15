@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+in+Computer+Science;System+Network+Administrator;Web+Designer%20&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Alors parlons de mois [PS : Si tu vois ANG et FR, t'inquiète pas; Je suis bilingue :)] <br>
+<h4 align="left">Alors parlons de mois [PS : Si tu vois ANG et FR, t'inquiète pas; Je suis bilingue :)] <br>
 - Administrateur systèmes & réseaux (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Système de supervision sur un réseau plus IDS)
 
 - En plus de ma passion et mon dévouement en administration, je fais également du WebDesign et du développement Web ( HTML-CSS-JS-PHP Laravel Angular)
@@ -162,7 +162,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/geoffreylgv"><img alt="Geoffrey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geoffreylgv&custom_title=Geoffrey%Logovi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/geoffreylgv"><img alt="Geoffrey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geoffreylgv&custom_title=Geoffreylgv's%Contribution%Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
