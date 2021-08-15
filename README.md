@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+in+Computer+Science;System+Network+Administrator;Web+Designer%20&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="">Alors parlons de mois PS : Si tu vois ANG et FR, t'inquiète pas; Je suis bilingue :) <br>
+<h4 align="">Alors parlons de mois PS : Si tu vois ANG et FR, t'inquiète pas; Je suis bilingue :) <br><br>
 - Administrateur systèmes & réseaux (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Système de supervision sur un réseau plus IDS)
 
 - En plus de ma passion et mon dévouement en administration, je fais également du WebDesign et du développement Web ( HTML-CSS-JS-PHP Laravel Angular)
@@ -13,14 +13,14 @@
 - Récemment je me forme et approfondie mes recherche du côté du Cloud Compiting et de la Sécurité Réseaux ; je suis donc des cours en linge sur la plate-forme Cisco Academy, Udemy AWS Solution Architect Associate - AWS SysOps Administrator - SQLi , Alphorm, Formip notament avec le CCNA Fast (gratuit), Google Africa Developper Scholarship ( Pluralsight ) .
 </h4>
 <h5>
-  Actuellement, je suis en stage en tant qu'administrateur systeur système et réseaux chez [Technologies Réseaux & Solution](https://trstech.net)
+  Actuellement, je suis en stage en tant qu'administrateur systeur système et réseaux chez Technologies Réseaux & Solution
   Mon travaille à TRS est un travail dans le domaine de pure technologie émergentes : La vidéonconférence haute résolution et surtout à zéro frais. Oubliez Zoom, Webex et consorrrrrre. Un projet #PFE sur lequel je boss dur.
  </h5>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=geoffreylgv&label=Profile%20views&color=0e75b6&style=plastic" alt="geoffreylgv_viewCount" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylgv&theme=algolia" alt="geoffreylgvStreak"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylgv&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgvStreak"  /></p>
 
 
 ## 🛠️ My Skills
@@ -149,10 +149,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Geoffreylgv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geoffreylgv&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Geoffreylgv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geoffreylgv&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geoffreylgv&show_icons=true&locale=en&layout=compact&theme=algolia" alt="geoffreylgv" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geoffreylgv&show_icons=true&locale=en&layout=compact&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgv" height="192px"/>
   <br/>
   <b>Note importante :</b> Les most languange ne sont qu'une métrique des langues de mon code public et ne reflète pas l'expérience ou le niveau de compétence. Ainsi, vous comprendrez que mes repository sont plus développement Front et WebDesign.
   </p>
@@ -162,7 +162,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/geoffreylgv"><img alt="Geoffrey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geoffreylgv&custom_title=Geoffreylgv's%Contribution%Graph&theme=react-dark" /></a>
+   <a href="https://github.com/geoffreylgv"><img alt="Geoffrey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geoffreylgv&custom_title=Geoffreylgv's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -172,7 +172,7 @@
 ## 📣 Contact
 <p align="center">
   
-  <a href="mailto:geoffreylogovi2@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%Geoffrey%Logovi%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:geoffreylogovi2@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/geoffreylgv"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/geoffreylgv"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://geoffreylogovi.herokuapp.com/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=web&logoColor=white"/></a>
