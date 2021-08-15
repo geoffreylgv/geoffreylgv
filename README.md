@@ -5,7 +5,7 @@
 </p>
 <hr/>
 <h4 align="center">Alors parlons de mois [PS : Si tu vois ANG et FR, t'inquiète pas; Je suis bilingue :)] <br>
- - Administrateur systèmes & réseaux (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Système de supervision sur un réseau plus IDS)
+ - En  Administrateur systèmes & réseaux (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Système de supervision sur un réseau plus IDS)
 
  - En plus de ma passion et mon dévouement en administration, je fais également du WebDesign et du développement Web ( HTML-CSS-JS-PHP Laravel Angular)
 
