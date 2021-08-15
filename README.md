@@ -5,14 +5,14 @@
 </p>
 <hr/>
 <h4 align="center">Alors parlons de mois [PS : Si tu vois ANG et FR, t'inquiète pas; Je suis bilingue :)] <br>
-- Administrateur systèmes & réseaux (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Système de supervision sur un réseau plus IDS)
+. Administrateur systèmes & réseaux (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Système de supervision sur un réseau plus IDS)
 
-- En plus de ma passion et mon dévouement en administration, je fais également du WebDesign et du développement Web ( HTML-CSS-JS-PHP Laravel Angular)
+. En plus de ma passion et mon dévouement en administration, je fais également du WebDesign et du développement Web ( HTML-CSS-JS-PHP Laravel Angular)
 
-- Récemment je me forme et approfondie mes recherche du côté du Cloud Compiting et de la Sécurité Réseaux ; je suis donc des cours en linge sur la plate-forme Cisco Academy, Udemy AWS Solution Architect Associate - AWS SysOps Administrator - SQLi , Alphorm, Formip notament avec le CCNA Fast (gratuit), Google Africa Developper Scholarship ( Pluralsight ) .
+. Récemment je me forme et approfondie mes recherche du côté du Cloud Compiting et de la Sécurité Réseaux ; je suis donc des cours en linge sur la plate-forme Cisco Academy, Udemy AWS Solution Architect Associate - AWS SysOps Administrator - SQLi , Alphorm, Formip notament avec le CCNA Fast (gratuit), Google Africa Developper Scholarship ( Pluralsight ) .
 </h4>
 <h5>
-  Actuellement, je suis en stage en tant qu'administrateur systeur système et réseaux chez Technologies Réseaux & Solution [https://www.trstech.net](TRS).
+  Actuellement, je suis en stage en tant qu'administrateur systeur système et réseaux chez Technologies Réseaux & Solution => https://trstech.net.
   Mon travaille à TRS est un travail dans le domaine de pure technologie émergentes : La vidéonconférence haute résolution et surtout à zéro frais. Oubliez Zoom, Webex et consorrrrrre. Un projet #PFE sur lequel je boss dur.
  </h5>
 <br>
