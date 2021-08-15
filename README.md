@@ -1,5 +1,6 @@
+<!-- **geoffreylgv/geoffreylgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">Hi , Je suis Geoffrey LOGOVI 👋></h1>
+<h1 align="center">Hi , Je suis Geoffrey LOGOVI 👋 3></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+in+Computer+Science;System+Network+Administrator;Web+Designer%20&center=true&width=500&height=50"></a>
 </p>
@@ -100,7 +101,6 @@
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
- 
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  </p>
   
@@ -154,7 +154,7 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geoffreylgv&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note importante :</b> Les most languange ne sont qu'une métrique des langues de mon code public et ne reflète pas l'expérience ou le niveau de compétence.
   </p>
 </details>
 
@@ -162,14 +162,14 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/geoffreylgv"><img alt="Geoffrey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geoffreylgv&custom_title=Geoffrey%Logovi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
 
 <br/>
 
-##📣 Contact
+## 📣 Contact
 <p align="center">
   
   <a href="mailto:geoffreylogovi2@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%Geoffrey%Logovi%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
