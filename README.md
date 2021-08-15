@@ -162,7 +162,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/geoffreylgv"><img alt="Geoffrey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geoffreylgv&custom_title=Geoffreylgv's%Contribution%Graph&theme=react-dark" /></a>
+   <a href="https://github.com/geoffreylgv"><img alt="Geoffrey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geoffreylgv&custom_title=Geoffreylgv's Contribution Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
