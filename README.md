@@ -149,7 +149,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Geoffreylgv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geoffreylgv&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="192px"/></a>
+    <a href="https://github.com/geoffreylgv"><img alt="Geoffreylgv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geoffreylgv&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geoffreylgv&show_icons=true&locale=en&layout=compact&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgv" height="192px"/>
