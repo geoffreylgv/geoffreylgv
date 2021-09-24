@@ -72,7 +72,7 @@
 
 <br/>
 
-## 📊 Github Stats (Click to Expand) 
+<!--## 📊 Github Stats (Click to Expand) 
 
 
 <details> 
@@ -97,7 +97,7 @@
 
 </details>
 
-<br/>
+<br/>-->
 
 ## 📣 Contact
 <p align="center">
