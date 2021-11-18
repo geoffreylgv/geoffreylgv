@@ -1,10 +1,7 @@
 <!-- **geoffreylgv/geoffreylgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">Hello , Je suis Geoffrey LOGOVI 👋 3></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+in+Computer+Science;System+Network+Administrator;Web+Designer%20&center=true&width=500&height=50"></a>
-</p>
-<hr/>
+<h1 align="">Hi,Je suis geoffreylgv <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+in+Computer+Science;System+Network+Administrator;Web+Designer%20&center=true&width=500&height=50"></a> </h1>
+
 
 + Administrateur systèmes & réseaux (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Système de supervision sur un réseau plus IDS)
 + En plus de ma passion et mon dévouement en administration, je fais également du WebDesign et du développement Web ( HTML-CSS-JS-PHP Laravel Angular)
