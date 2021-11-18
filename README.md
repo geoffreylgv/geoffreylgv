@@ -10,10 +10,6 @@
 + En plus de ma passion et mon dévouement en administration, je fais également du WebDesign et du développement Web ( HTML-CSS-JS-PHP Laravel Angular)
 + Récemment je me forme et approfondie mes recherche du côté du Cloud Compiting et de la Sécurité Réseaux ; je suis donc des cours en linge sur la plate-forme Cisco Academy, Udemy AWS Solution Architect Associate - AWS SysOps Administrator - SQLi , Alphorm, Formip notament avec le CCNA Fast (gratuit), Google Africa Developper Scholarship ( Pluralsight ) .
 </h4>
-<h5>
-  Actuellement, je suis en stage en tant qu'administrateur systeur système et réseaux chez Technologies Réseaux & Solution
-  Mon travaille à TRS est un travail dans le domaine de pure technologie émergentes : La vidéonconférence haute résolution et surtout à zéro frais. Oubliez Zoom, Webex et consorrrrrre. Un projet #PFE sur lequel je boss dur.
- </h5>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=geoffreylgv&label=Profile%20views&color=0e75b6&style=plastic" alt="geoffreylgv_viewCount" /> </p>
 
@@ -21,52 +17,8 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylgv&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgvStreak"  /></p>-->
 
 
-## 🛠️ My Skills
+## 🛠️ Consulte mon LinkedIn pour plus de média skills
 
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>&emsp;
-	<a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>&emsp;
-	<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-   <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>  
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
- &emsp;
-    &emsp;<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	&emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe xd-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
-</p>
 
 
 
