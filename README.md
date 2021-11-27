@@ -13,12 +13,6 @@
 <!--## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylgv&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgvStreak"  /></p>-->
 
-
-## 🛠️ Consulte mon LinkedIn pour plus de média skills
-
-
-
-
 <br/>
 
 <!--## 📊 Github Stats (Click to Expand) 
@@ -48,7 +42,7 @@
 
 <br/>-->
 
-## 📣 Contact
+## 📣 Contact : ## LinkedIn & CV pour plus de média & skills
 <p align="center">
   
   <a href="mailto:geoffreylogovi2@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
