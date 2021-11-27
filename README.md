@@ -8,12 +8,7 @@
 + Récemment je me forme et approfondie mes recherche du côté du Cloud Compiting et de la Sécurité Réseaux ; je suis donc des cours en linge sur la plate-forme Cisco Academy, Udemy AWS Solution Architect Associate - AWS SysOps Administrator - SQLi , Alphorm, Formip notament avec le CCNA Fast (gratuit), Google Africa Developper Scholarship ( Pluralsight ) .
 </h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=geoffreylgv&label=Profile%20views&color=0e75b6&style=plastic" alt="geoffreylgv_viewCount" /> </p>
 
-<!--## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylgv&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgvStreak"  /></p>-->
-
-<br/>
 
 <!--## 📊 Github Stats (Click to Expand) 
 
@@ -42,7 +37,7 @@
 
 <br/>-->
 
-## 📣 Contact : ## LinkedIn & CV pour plus de média & skills
+## 📣 Contact :LinkedIn & CV pour plus de média & skills
 <p align="center">
   
   <a href="mailto:geoffreylogovi2@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
