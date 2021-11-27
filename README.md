@@ -5,7 +5,6 @@
 
 + Administrateur systèmes & réseaux (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Système de supervision sur un réseau plus IDS)
 + En plus de ma passion et mon dévouement en administration, je fais également du WebDesign et du développement Web ( HTML-CSS-JS-PHP Laravel Angular)
-+ Récemment je me forme et approfondie mes recherche du côté du Cloud Compiting et de la Sécurité Réseaux ; je suis donc des cours en linge sur la plate-forme Cisco Academy, Udemy AWS Solution Architect Associate - AWS SysOps Administrator - SQLi , Alphorm, Formip notament avec le CCNA Fast (gratuit), Google Africa Developper Scholarship ( Pluralsight ) .
 </h4>
 <br>
 
