@@ -49,6 +49,3 @@
 </p>
 <p align="center"> </p>-->
 
-<br/>
-<hr/>
-
