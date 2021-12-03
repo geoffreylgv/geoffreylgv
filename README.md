@@ -24,7 +24,6 @@
   </p>
 </details>
 
-
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
