@@ -7,8 +7,9 @@
 + En plus de ma passion et mon dévouement en administration, je fais également du WebDesign et du développement Web ( HTML-CSS-JS-PHP Laravel Angular)
 </h4>
 <br>
-+ System & Network Administrator (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Network Monitoring System plus IDS)
-+ In addition to my passion and dedication in sysadmin, I also do WebDesign and Web development ( HTML-CSS-JS-PHP Laravel Angular)
+
+>System & Network Administrator (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Network Monitoring System plus IDS)
+> In addition to my passion and dedication in sysadmin, I also do WebDesign and Web development ( HTML-CSS-JS-PHP Laravel Angular)
 </h4>
 <br>
 <!--## 📊 Github Stats (Click to Expand) 
