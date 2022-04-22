@@ -12,7 +12,7 @@
 > In addition to my passion and dedication in sysadmin, I also do WebDesign and Web development ( HTML-CSS-JS-PHP Laravel Angular)
 </h4>
 <br>
-<!--## 📊 Github Stats (Click to Expand) 
+## 📊 Github Stats (Click to Expand) 
 
 
 <details> 
@@ -36,7 +36,7 @@
 
 </details>
 
-<br/>-->
+<br/>
 
 ## 📣 Contact :LinkedIn & CV pour plus de média & skills
 <p align="center">
