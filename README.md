@@ -1,6 +1,6 @@
 <!-- **geoffreylgv/geoffreylgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="">Hi, Je suis/I'm geoffreylgv </h1>
+<h1 align="">Hi, I'm geoffreylgv </h1>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+in+Computer+Science;System+Network+Administrator;Web+Designer%20&center=true&width=500&height=50"></a>
 
 + Administrateur systèmes & réseaux (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Système de supervision sur un réseau plus IDS)
@@ -8,11 +8,28 @@
 </h4>
 <br>
 
->System & Network Administrator (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Network Monitoring System plus IDS)
+> System & Network Administrator (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Network Monitoring System plus IDS)<br>
 > In addition to my passion and dedication in sysadmin, I also do WebDesign and Web development ( HTML-CSS-JS-PHP Laravel Angular)
 </h4>
 <br>
-## 📊 Github Stats (Click to Expand) 
+
+
+## 📣 Contact :LinkedIn & CV pour plus de média & skills
+<p align="center">
+  
+  <a href="mailto:geoffreylogovi2@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/geoffreylgv"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/geoffreylgv"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://geoffreylogovi.herokuapp.com/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=web&logoColor=white"/></a>
+ <img src="https://komarev.com/ghpvc/?username=geoffreylgv&label=Profile%20views&color=0e75b6&style=plastic" alt="geoffreylgv_viewCount" /> </p>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylgv&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgvStreak"  />
+</p>
+<p align="center"> </p>
+
+
+<!--## 📊 Github Stats (Click to Expand) 
 
 
 <details> 
@@ -36,19 +53,4 @@
 
 </details>
 
-<br/>
-
-## 📣 Contact :LinkedIn & CV pour plus de média & skills
-<p align="center">
-  
-  <a href="mailto:geoffreylogovi2@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/geoffreylgv"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/geoffreylgv"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://geoffreylogovi.herokuapp.com/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=web&logoColor=white"/></a>
- <img src="https://komarev.com/ghpvc/?username=geoffreylgv&label=Profile%20views&color=0e75b6&style=plastic" alt="geoffreylgv_viewCount" /> </p>
-
-<!--## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylgv&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgvStreak"  />
-</p>
-<p align="center"> </p>-->
-
+<br/>-->
