@@ -9,7 +9,7 @@
 <br>
 
 > System & Network Administrator (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Network Monitoring System plus IDS)<br>
-> In addition to my passion and dedication in sysadmin, I also do WebDesign and Web development ( HTML-CSS-JS-PHP Laravel Angular)
+> In addition to my passion and dedication in sysadmin, I also do WebDesign and Web development ( HTML-CSS-JS-PHP Laravel Angular JAVA)
 </h4>
 <br>
 
