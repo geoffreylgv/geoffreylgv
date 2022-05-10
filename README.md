@@ -3,6 +3,12 @@
 <h1 align="">Hi, I'm geoffreylgv </h1>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+in+Computer+Science;System+Network+Administrator;Web+Designer%20&center=true&width=500&height=50"></a>
 
+<p align="center"> <a href="https://twitter.com/geoffreylgv" target="blank">
+<img src="https://img.shields.io/twitter/follow/geoffreylgv?logo=twitter&style=for-the-badge" alt="geoffreylgv" /></a> 
+<a href="https://github.com/geoffreylgv" target="blank"></a> 
+<a href="https://github.com/geoffreylgv" target="blank">
+<img src="https://img.shields.io/github/stars/geoffreylgv?label=%E2%AD%90%20Github&style=for-the-badge" alt="geoffreylgv" /></a>
+</p> 
 + Administrateur systèmes & réseaux (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Système de supervision sur un réseau plus IDS)
 + En plus de ma passion et mon dévouement en administration, je fais également du WebDesign et du développement Web ( HTML-CSS-JS-PHP Laravel Angular JAVA)
 </h4>
