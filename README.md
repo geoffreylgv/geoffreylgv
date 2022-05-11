@@ -1,7 +1,7 @@
 <!-- **geoffreylgv/geoffreylgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="">Hi, I'm geoffreylgv </h1>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+in+Computer+Science;System+Network+Administrator;Web+Designer%20&center=true&width=500&height=50"></a>
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+in+Computer+Science;System+Network+Administrator;Web+Designer%20&center=true&width=500&height=50"></a>
 
 <p align="center"> <a href="https://twitter.com/geoffreylgv" target="blank">
 <img src="https://img.shields.io/twitter/follow/geoffreylgv?logo=twitter&style=for-the-badge" alt="geoffreylgv" /></a> 
