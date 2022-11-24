@@ -1,8 +1,11 @@
 <!-- **geoffreylgv/geoffreylgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="">Hi, I'm geoffreylgv </h1>
+## I am A. Geoffrey Logovi (Pronunciation  :  ˈʤefray logovi')
+<embed width='400' height='180' src='https://embed.howtopronounce.com/classic/en/geoffrey/3370602'>
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+in+Computer+Science;System+Network+Administrator;Web+Designer%20&center=true&width=500&height=50"></a>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 <p align="center"> <a href="https://twitter.com/geoffreylgv" target="blank">
 <img src="https://img.shields.io/twitter/follow/geoffreylgv?logo=twitter&style=for-the-badge" alt="geoffreylgv" /></a> 
 <a href="https://github.com/geoffreylgv" target="blank"></a> 
@@ -61,7 +64,30 @@
 </details>
 
 <br/>-->
+<br>
+<div align="left">
+  <a href="https://twitter.com/geoffreylgv">
+    <img
+      src="https://img.shields.io/twitter/follow/geoffreylgv?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/geoffreylgv/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+  <a href="https://api.daily.dev/get?r=geoffreylgv" target="_blank">
+    <img
+      width="320"
+      align="right"
+      src="https://api.daily.dev/devcards/e6c999ba45aa45138ca7c2b46878077c.png?r=n0n"
+    />
+  </a>
+</div>
+
+## I am A. Geoffrey Logovi (Pronunciation  :  J)
+<embed width='400' height='180' src='https://embed.howtopronounce.com/classic/en/geoffrey/3370602'>
 
