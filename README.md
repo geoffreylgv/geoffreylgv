@@ -1,7 +1,7 @@
 <!-- **geoffreylgv/geoffreylgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## I am A. Geoffrey Logovi (Pronunciation  :  ˈʤefray logovi')
-<a><embed width='400' height='180' src='https://embed.howtopronounce.com/classic/en/geoffrey/3370602'></a>
+<iframe width="400" height="180" src="https://embed.howtopronounce.com/classic/en/geoffrey/3370602"></iframe>
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+in+Computer+Science;System+Network+Administrator;Web+Designer%20&center=true&width=500&height=50"></a>
 
 <h3 align="left">Languages and Tools:</h3>
