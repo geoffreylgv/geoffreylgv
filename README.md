@@ -64,30 +64,4 @@
 </details>
 
 <br/>-->
-<br>
-<div align="left">
-  <a href="https://twitter.com/geoffreylgv">
-    <img
-      src="https://img.shields.io/twitter/follow/geoffreylgv?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/geoffreylgv/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://api.daily.dev/get?r=geoffreylgv" target="_blank">
-    <img
-      width="320"
-      align="right"
-      src="https://api.daily.dev/devcards/e6c999ba45aa45138ca7c2b46878077c.png?r=n0n"
-    />
-  </a>
-</div>
-
-## I am A. Geoffrey Logovi (Pronunciation  :  J)
-<embed width='400' height='180' src='https://embed.howtopronounce.com/classic/en/geoffrey/3370602'>
 
