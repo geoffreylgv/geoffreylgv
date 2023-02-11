@@ -2,7 +2,7 @@
 
 ## I'm Jeffrey
 
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+in+Computer+Science;System+Network+Administrator;Web+Designer%20&center=true&width=500&height=50"></a>
+I'm Geoffrey, SysAdmin, I learn API, Web & Mobile Development to gain and improve skills. Passionate about DevOps and tech, I share tech-related opportunities and my works & knowledge with my community.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
@@ -12,15 +12,7 @@
 <a href="https://github.com/geoffreylgv" target="blank">
 <img src="https://img.shields.io/github/stars/geoffreylgv?label=%E2%AD%90%20Github&style=for-the-badge" alt="geoffreylgv" /></a>
 </p> 
-+ Administrateur systèmes & réseaux (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Système de supervision sur un réseau plus IDS)
-+ En plus de ma passion et mon dévouement en administration, je fais également du WebDesign et du développement Web ( HTML-CSS-JS-PHP Laravel Angular JAVA)
-</h4>
-<br>
 
-
-> System & Network Administrator (Perl, Python, Shell, Linux, Windows, VoIP, Active Directory, Network Monitoring System plus IDS)<br>
-> In addition to my passion and dedication in sysadmin, I also do WebDesign and Web development ( HTML-CSS-JS-PHP Laravel Angular JAVA)
-</h4>
 <br>
 
 
