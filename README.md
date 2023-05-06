@@ -28,12 +28,16 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
  <img src="https://komarev.com/ghpvc/?username=geoffreylgv&label=Profile%20views&color=0e75b6&style=plastic" alt="geoffreylgv_viewCount" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylgv&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgvStreak"  />
+<p align="center">
+	
+[![geoffreylgv's GitHub | Stats](https://stats.quine.sh/geoffreylgv/github?theme=dark)](https://quine.sh)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylgv&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgvStreak"/>
+
 </p>
-<p align="center"> </p>
 
 
-## 📊 Github Stats (Click to Expand) 
+
+## 📊 Github Stats 
 
 [![geoffreylgv's GitHub | Topics Over Time](https://stats.quine.sh/geoffreylgv/topics-over-time?theme=light)](https://quine.sh)
 
