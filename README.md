@@ -49,13 +49,7 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
   </p>
 </details>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/geoffreylgv"><img alt="Geoffrey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geoffreylgv&custom_title=Geoffreylgv's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
+[![geoffreylgv's GitHub | Languages Over Time](https://stats.quine.sh/geoffreylgv/languages-over-time?theme=dark)](https://quine.sh)
 
 <br/>
 
