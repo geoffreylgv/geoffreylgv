@@ -30,7 +30,7 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
 ## 🔥 Streak Stats
 <p align="center">
 	
-[![geoffreylgv's GitHub | Stats](https://stats.quine.sh/geoffreylgv/github?theme=dark)](https://quine.sh)
+[![geoffreylgv's GitHub | Stats](https://stats.quine.sh/geoffreylgv/github?theme=dark)](https://geoffreylogovi.me)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylgv&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgvStreak"/>
 
 </p>
@@ -39,11 +39,11 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
 
 ## 📊 Github Stats 
 
-[![geoffreylgv's GitHub | Topics Over Time](https://stats.quine.sh/geoffreylgv/topics-over-time?theme=light)](https://quine.sh)
+[![geoffreylgv's GitHub | Topics Over Time](https://stats.quine.sh/geoffreylgv/topics-over-time?theme=light)](https://geoffreylogovi.me)
 
-[![geoffreylgv's GitHub | Languages Over Time](https://stats.quine.sh/geoffreylgv/languages-over-time?theme=dark)](https://quine.sh)
+[![geoffreylgv's GitHub | Languages Over Time](https://stats.quine.sh/geoffreylgv/languages-over-time?theme=dark)](https://geoffreylogovi.me)
 
-<details> 
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -54,7 +54,6 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
   <br/>
   <b>Note importante :</b> Les most languange ne sont qu'une métrique des langues de mon code public et ne reflète pas l'expérience ou le niveau de compétence. Ainsi, vous comprendrez que mes repository sont plus développement Front et WebDesign, j'ai récemment commencé à faire du REST API et du Backend.
   </p>
-</details>
 
 <br/>
 
