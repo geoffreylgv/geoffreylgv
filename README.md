@@ -33,7 +33,7 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
 <p align="center"> </p>
 
 
-<!--## 📊 Github Stats (Click to Expand) 
+## 📊 Github Stats (Click to Expand) 
 
 
 <details> 
@@ -57,5 +57,5 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
 
 </details>
 
-<br/>-->
+<br/>
 
