@@ -24,7 +24,7 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
   <a href="mailto:geoffreylogovi2@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/geoffreylgv"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/geoffreylgv"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://geoffreylogovi.herokuapp.com/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=web&logoColor=white"/></a>
+  <a href="https://geoffreylogovi.me/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=web&logoColor=white"/></a>
  <img src="https://komarev.com/ghpvc/?username=geoffreylgv&label=Profile%20views&color=0e75b6&style=plastic" alt="geoffreylgv_viewCount" /> </p>
 
 ## 🔥 Streak Stats
@@ -35,6 +35,9 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
 
 ## 📊 Github Stats (Click to Expand) 
 
+[![geoffreylgv's GitHub | Topics Over Time](https://stats.quine.sh/geoffreylgv/topics-over-time?theme=light)](https://quine.sh)
+
+[![geoffreylgv's GitHub | Languages Over Time](https://stats.quine.sh/geoffreylgv/languages-over-time?theme=dark)](https://quine.sh)
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -45,11 +48,9 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geoffreylgv&show_icons=true&locale=en&layout=compact&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgv" height="192px"/>
   <br/>
-  <b>Note importante :</b> Les most languange ne sont qu'une métrique des langues de mon code public et ne reflète pas l'expérience ou le niveau de compétence. Ainsi, vous comprendrez que mes repository sont plus développement Front et WebDesign.
+  <b>Note importante :</b> Les most languange ne sont qu'une métrique des langues de mon code public et ne reflète pas l'expérience ou le niveau de compétence. Ainsi, vous comprendrez que mes repository sont plus développement Front et WebDesign, j'ai récemment commencé à faire du REST API et du Backend.
   </p>
 </details>
-
-[![geoffreylgv's GitHub | Languages Over Time](https://stats.quine.sh/geoffreylgv/languages-over-time?theme=dark)](https://quine.sh)
 
 <br/>
 
