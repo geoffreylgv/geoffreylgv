@@ -45,5 +45,5 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
   **Note importante:** Les most languange ne sont qu'une métrique des langues de mon code public et ne reflète pas l'expérience ou le niveau de compétence. Ainsi, vous comprendrez que mes repository sont plus développement Front et WebDesign, j'ai récemment commencé à faire du REST API et du Backend.
   <br/>
   
-![Metrics](https://metrics.lecoq.io/geoffreylgv?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=UTC)
+<!-- ![Metrics](https://metrics.lecoq.io/geoffreylgv?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=UTC) -->
 </p>
