@@ -1,5 +1,14 @@
 <!-- **geoffreylgv/geoffreylgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<!-- | [![Twitter](https://img.shields.io/github/stars/geoffreylgv?label=%E2%AD%90%20Github&style=for-the-badge)] | ![Profile Views](https://komarev.com/ghpvc/?username=geoffreylgv&color=blue) | ![Followers](https://img.shields.io/github/followers/geoffreylgv) | ![Stars](https://img.shields.io/github/stars/geoffreylgv?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
+<p align="center"> <a href="https://twitter.com/geoffreylgv" target="blank">
+<img src="https://img.shields.io/twitter/follow/geoffreylgv?logo=twitter&style=for-the-badge" alt="geoffreylgv" /></a>
+<a href="https://github.com/geoffreylgv" target="blank"></a>
+<a href="https://github.com/geoffreylgv" target="blank">
+<img src="" alt="geoffreylgv" /></a>
+</p> -->
+
 ## I'm Jeffrey
 
 Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) :), SysAdmin, learning API, Web Development, Cloud, Azure to gain and improve my skills. I have a great passion for technology, DevOps and am eager to expand my skills and knowledge in this field. I have demonstrated hard work and dedication throughout my academic career. I have always been an avid learner and actively seek opportunities to gain hands-on experience, I share tech-related opportunities and my work journey with my community as well.
@@ -8,14 +17,7 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/> </a> <a href="https://azure.microsoft.comwt.mc_id=studentamb_252175" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="ms azure" width="40" height="40"/> </a> <a href="https://portal.azure.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-icon.svg" alt="azure function" width="40" height="40"/> </a> </p>
-<p align="center"> <a href="https://twitter.com/geoffreylgv" target="blank">
-<img src="https://img.shields.io/twitter/follow/geoffreylgv?logo=twitter&style=for-the-badge" alt="geoffreylgv" /></a>
-<a href="https://github.com/geoffreylgv" target="blank"></a>
-<a href="https://github.com/geoffreylgv" target="blank">
-<img src="https://img.shields.io/github/stars/geoffreylgv?label=%E2%AD%90%20Github&style=for-the-badge" alt="geoffreylgv" /></a>
-</p>
 
-<br>
 
 ## 📣 Contact :LinkedIn & CV pour plus de média & skills
 
