@@ -1,13 +1,19 @@
 <!-- **geoffreylgv/geoffreylgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- | [![Twitter](https://img.shields.io/github/stars/geoffreylgv?label=%E2%AD%90%20Github&style=for-the-badge)] | ![Profile Views](https://komarev.com/ghpvc/?username=geoffreylgv&color=blue) | ![Followers](https://img.shields.io/github/followers/geoffreylgv) | ![Stars](https://img.shields.io/github/stars/geoffreylgv?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+
 --| --| --| --|
 <p align="center"> <a href="https://twitter.com/geoffreylgv" target="blank">
 <img src="https://img.shields.io/twitter/follow/geoffreylgv?logo=twitter&style=for-the-badge" alt="geoffreylgv" /></a>
 <a href="https://github.com/geoffreylgv" target="blank"></a>
 <a href="https://github.com/geoffreylgv" target="blank">
 <img src="" alt="geoffreylgv" /></a>
+
 </p> -->
+
+<p align="center">
+  <img width="1080" height="500" src="https://github.com/geoffreylgv/geoffreylgv/assets/52314615/51a42def-1104-4d8f-895e-079e69cf9c2c">
+</p>
 
 ## I'm Jeffrey
 
