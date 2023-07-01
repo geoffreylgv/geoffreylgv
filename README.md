@@ -25,8 +25,9 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
 
 ## 🔥 Streak Stats
 
-<a href="https://github.com/geoffreylgv"><img alt="Geoffreylgv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geoffreylgv&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="190px"/></a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylgv&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgvStreak"/>
+| Stats    | Streak    |
+| :---: | :---: |
+|<a href="https://github.com/geoffreylgv"><img alt="Geoffreylgv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geoffreylgv&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylgv&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="geoffreylgvStreak"/>|
   
 <!--
 ## 📊 Github Stats
