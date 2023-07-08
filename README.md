@@ -3,8 +3,9 @@
 <!-- <p align="center">
   <img width="1080" height="500" src="https://github.com/geoffreylgv/geoffreylgv/assets/52314615/51a42def-1104-4d8f-895e-079e69cf9c2c">
 </p> -->
-
-## I'm Jeffrey
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Jeffrey%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
+</p>
 
 Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) :), SysAdmin, learning API, Web Development, Cloud, and Azure to gain and improve my skills. I'm Lightning and an Open source enthusiast, adding DevRel. I have a great passion for technology, DevOps and am eager to expand my skills and knowledge in this field. I have demonstrated hard work and dedication throughout my academic career. I have always been an avid learner and actively seek opportunities to gain hands-on experience, I share tech-related opportunities and my work journey with my community as well.
 
