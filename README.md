@@ -37,6 +37,3 @@ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server,
 | :---: | :---: |
 |[![geoffreylgv's GitHub metrics](https://stats.quine.sh/geoffreylgv/github?theme=dark)](https://geoffreylogovi.me)|![Metrics](https://metrics.lecoq.io/geoffreylgv?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=UTC)|
 
-
-[![geoffreylgv's GitHub | Languages Over Time](https://stats.quine.sh/geoffreylgv/languages-over-time?theme=dark)](https://geoffreylogovi.me)
-
