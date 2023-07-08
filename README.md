@@ -7,25 +7,24 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Jeffrey%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
-Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) :), SysAdmin, learning API, Web Development, Cloud, and Azure to gain and improve my skills. I'm Lightning and an Open source enthusiast, adding DevRel. I have a great passion for technology, DevOps and am eager to expand my skills and knowledge in this field. I have demonstrated hard work and dedication throughout my academic career. I have always been an avid learner and actively seek opportunities to gain hands-on experience, I share tech-related opportunities and my work journey with my community as well.
+Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) :), SysAdmin, learning API, Web Development, Cloud, and Azure to gain and improve my skills. I'm Lightning and an Open source enthusiast, adding DevRel. 
 
-My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server, Cloud, Azure, and Network domain. I am also familiar with Git, and Postman.
+✅ I have a great passion for technology, DevOps and am eager to expand my skills and knowledge in this field. I have demonstrated hard work and dedication throughout my academic career. I have always been an avid learner and actively seek opportunities to gain hands-on experience, I share tech-related opportunities and my work journey with my community as well.
+
+✅ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server, Cloud, Azure, and Network domain. I am also familiar with Git, and Postman.
 
 ## Languages and Tools:
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,java,mysql,postman,spring,bash,git,mysql,vscode,replit,c,typescript,js,nextjs,figma,github,tailwind,docker,azure)](https://skillicons.dev)<br/>
 
-<!--<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/> </a> <a href="https://azure.microsoft.comwt.mc_id=studentamb_252175" target="_blank" rel="noreferrer"></a> </p>
--->
-
-## 📣 Contact :LinkedIn & CV pour plus de média & skills
+## 📣 Contact :LinkedIn & CV
 
 <p align="center">
 
   <a href="https://linkedin.com/in/geoffreylgv"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/geoffreylgv"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://geoffreylogovi.me/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=web&logoColor=white"/></a>
- <img src="https://komarev.com/ghpvc/?username=geoffreylgv&label=Profile%20views&color=0e75b6&style=plastic" alt="geoffreylgv_viewCount" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=geoffreylgv&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="geoffreylgv_viewCount" /> </p>
 
 ## 🔥 Streak Stats
 
