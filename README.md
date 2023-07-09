@@ -15,7 +15,7 @@ Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) :), SysAdmin, learning API, Web Develop
 
 ## Languages and Tools:
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,java,mysql,postman,spring,bash,git,mysql,vscode,replit,c,typescript,js,nextjs,figma,github,tailwind,docker,azure)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,java,mysql,postman,spring,c,bootstrap,bash,figma,github,git,vscode,typescript,replit,js,nextjs,tailwind,docker,azure)](https://skillicons.dev)<br/>
 
 ## 📣 Contact :LinkedIn & CV
 
