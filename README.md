@@ -7,8 +7,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Jeffrey%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
-Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) :), SysAdmin, learning API, Web Development, Cloud, and Azure to gain and improve my skills. I'm Lightning and an Open source enthusiast, adding DevRel. 
-
+Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) :), a fervent learner to gain and improve my skills. Actually learning SWE at Africa Leadership X (ALX)
+<!--
 ✅ I have a great passion for technology, DevOps and am eager to expand my skills and knowledge in this field. I have demonstrated hard work and dedication throughout my academic career. I have always been an avid learner and actively seek opportunities to gain hands-on experience, I share tech-related opportunities and my work journey with my community as well.
 
 ✅ My technical skills include HTML, CSS, Java, SpringBoot, API, MySQL, SQL Server, Cloud, Azure, and Network domain. I am also familiar with Git, and Postman.
@@ -16,7 +16,7 @@ Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) :), SysAdmin, learning API, Web Develop
 ## Languages and Tools:
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,java,mysql,postman,spring,c,bootstrap,bash,figma,github,git,vscode,typescript,replit,js,nextjs,tailwind,docker,azure)](https://skillicons.dev)<br/>
-
+ -->
 ## 📣 Contact :LinkedIn & CV
 
 <p align="center">
@@ -38,4 +38,3 @@ Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) :), SysAdmin, learning API, Web Develop
 | PRs    | Metrics    |
 | :---: | :---: |
 |[![geoffreylgv's GitHub metrics](https://stats.quine.sh/geoffreylgv/github?theme=dark)](https://geoffreylogovi.me)|![Metrics](https://metrics.lecoq.io/geoffreylgv?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=UTC)|
-
