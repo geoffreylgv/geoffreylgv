@@ -7,7 +7,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Jeffrey%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
-Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) :), a fervent learner to gain and improve my skills. Actually learning SWE at Africa Leadership X (ALX)
+Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) :), a fervent learner to gain and improve my skills. Actually learning SWE at Africa Leadership X (ALX)<br>
+**Actually working on the project : [Printf](https://github.com/soofyane/printf)** _Customize the original C programming printf(), by adding its features_
 <!--
 ✅ I have a great passion for technology, DevOps and am eager to expand my skills and knowledge in this field. I have demonstrated hard work and dedication throughout my academic career. I have always been an avid learner and actively seek opportunities to gain hands-on experience, I share tech-related opportunities and my work journey with my community as well.
 
