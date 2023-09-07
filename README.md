@@ -4,10 +4,15 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Jeffrey%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
-Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) :), a fervent learner to gain and improve my skills. Actually learning SWE at Africa Leadership X (ALX)  
-**Actually working on the project : [Simple Shell](https://github.com/geoffreylgv/simple_shell)** _A simple implementation of a Unix shell, which is a command-line interface allowing users to interact with the operating system by entering and executing commands_  
+Hi, I'm Geoffrey (dʒɛfray or dʒɛfri) 🥲, a fervent learner to gain and improve my skills. Basicaly, I'm a computer science student with specialization in network and system administration.  
+
+Currently student at Africa Leadership X (ALX), and preparing for Azure DevOps certification. 
+I'm willing to become devrel, I'm volunteering at [devreluni](twitter.com/devreluni), student fellow in devrel track at [product hub africa](twitter.com/producthubafri)  
+
+**Actually working on the project : [Simple Shell](https://github.com/geoffreylgv/bourne_shell)** _A simple implementation of a Unix shell, which is a command-line interface allowing users to interact with the operating system by entering and executing commands_  
 **I've worked on the project : [Printf](https://github.com/soofyane/printf)** _Customize the original C programming printf(), by adding its features_
 
+Blog: [hashnode.com/@geoffreylgv](https://hashnode.com/@geoffreylgv)
 ## 📣 Contact :LinkedIn & CV
 
 <p align="center">
