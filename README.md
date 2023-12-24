@@ -21,6 +21,12 @@ Blog: [hashnode.com/@geoffreylgv](https://hashnode.com/@geoffreylgv)
   <a href="https://geoffreylogovi.me/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=web&logoColor=white"/></a>
  <img src="https://komarev.com/ghpvc/?username=geoffreylgv&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="geoffreylgv_viewCount" /> </p>
 
+## 🎁 Support my work
+<p align="center">
+<a href='https://ko-fi.com/geoffreylgv' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com'/> &nbsp;
+<a href='https://www.buymeacoffee.com/geoffreylgv' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png' border='0' alt='Buy Me a Coffee at buymeacoffee.com'/>
+</p>
+
 ## 🔥 Streak Stats
 
 | Stats    | Streak    |
