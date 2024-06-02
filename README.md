@@ -22,6 +22,18 @@ I'm willing to become devrel, currently student at [Dxmentorship](https://github
 
 Blog: [hashnode.com/@geoffreylgv](https://hashnode.com/@geoffreylgv) | Web Porfolio: [geoffreylogovi.me](https://geoffreylogovi.me)
 
+---
+
+<details open>
+  <summary><h3>⚡ Recent Activity</h3></summary>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+---
 ## 🔥 Streak Stats
 
 | Stats    | Streak    |
