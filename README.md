@@ -20,7 +20,7 @@ I'm willing to become devrel, currently student at [Dxmentorship](https://github
 - **[Apache](https://github.com/apache/openmeetings)** _An open source Web videoconference solution (like BigBlueButton, Jitsi, even Zoom) based on WebRTC, developed in JAVA_
 <br/>
 
-Blog: [hashnode.com/@geoffreylgv](https://hashnode.com/@geoffreylgv) | Web Porfolio: [geoffreylogovi.me](https://geoffreylogovi.me) | <a rel="me" href="https://mastodon.social/@geoffreylgv" aria-label="Mastodon"></a>
+Blog: [hashnode.com/@geoffreylgv](https://hashnode.com/@geoffreylgv) | Web Porfolio: [geoffreylogovi.me](https://geoffreylogovi.me) | <a rel="me" href="https://mastodon.social/@geoffreylgv" aria-label="Mastodon">Mastodon</a>
 
 ---
 
